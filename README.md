@@ -1,4 +1,10 @@
-#Tujuan dari tool UniqueDomainExtractor adalah untuk:
+CARA PENGGUNAAN TOOLS:
+
+
+
+
+
+Tujuan dari tool UniqueDomainExtractor adalah untuk:
 
 Mengekstrak Domain Unik dari Daftar URL:
 
