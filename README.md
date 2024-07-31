@@ -1,4 +1,5 @@
-CARA PENGGUNAAN TOOLS:
+CONTOH PENGGUNAAN:
+![image](https://github.com/user-attachments/assets/d0e96101-1624-42c2-8c5a-0b45b64262f4)
 
 
 
